@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'athergin'
+require 'sinatra'
+require 'sinatra/json'
+require 'sinatra/reloader' # if development?
+require 'haml'
+require 'mongo'
+
